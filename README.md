@@ -12,9 +12,8 @@ MATLAB is required to run the program.
 ## Published Research Studies using Codes
 Please make a citation to 
 Srisutthiyakorn, N. (2018). Computational Analysis of Fluid Flow in 2D&3D Pore Geometry. Ph.D Dissertation. Stanford University.
+https://searchworks.stanford.edu/view/12684954
 
 for Minkowski measurements, please refer to the following GitHub
 https://github.com/mattools/matImage/wiki/imMinkowski
 
-## Link
-https://searchworks.stanford.edu/view/12684954
